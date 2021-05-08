@@ -1,0 +1,23 @@
+{
+  "name": "team-profile-generator",
+  "version": "1.0.0",
+  "description": "[![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/) ## Table of Contents - [Description](#description) - [Installation](#installation) - [Usage](#usage) - [Contributing](#contributing) - [Tests](#tests) - [Questions](#questions) - [License](#license) ## Description stuff ## Installation yes ## Usage no ## Contributing no ## Tests no ### Questions s - [Github](https://github.com/scottgeleas) - <scottgeleas97@gmail.com> ## License This is free and unencumbered software released into the public domain.",
+  "main": "index.js",
+  "dependencies": {
+    "inquirer": "^8.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scottgeleas/Team-Profile-Generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/scottgeleas/Team-Profile-Generator/issues"
+  },
+  "homepage": "https://github.com/scottgeleas/Team-Profile-Generator#readme"
+}
