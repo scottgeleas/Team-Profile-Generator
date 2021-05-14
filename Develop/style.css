@@ -1,0 +1,21 @@
+body {
+  background-color: rgb(197, 197, 197);
+}
+
+.title {
+  display: flex;
+  justify-content: center;
+  margin-top: 30px;
+  margin-bottom: 60px;
+  background-color: rgba(100, 185, 255, 0.753);
+}
+
+.cards {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.card {
+  margin: 10px;
+}
